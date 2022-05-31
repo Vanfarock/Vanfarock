@@ -8,5 +8,5 @@ I love to meet new people, new cultures and try different things.
   - :video_game: Video Games;
   - :octopus: 3D modelling;
   - :musical_keyboard: Music (guitar and piano);
-- :blue_book: I’m currently mastering/learning ReactJS, React Native and Golang.
+- :blue_book: I’m currently mastering/learning Rust and Python.
 - 📫 If you want to contact me, send an email to *vinicius.m.m.2002@gmail.com*.
