@@ -6,6 +6,6 @@ I have intereset in:
 * 🧪 Science
 * 🈷️ Languages
 * 🎸 Music
-* 👾 videogames
+* 👾 Videogames
 
 📫 If you want to contact me, send an email to *vinicius.m.m.2002@gmail.com*.
