@@ -2,7 +2,7 @@
 
 I'm a backend developer pursuing my bachelor's degree in Computer Science :mortar_board:.
 
-I have intereset in:
+I have interest in:
 * 🧪 Science
 * 🈷️ Languages
 * 🎸 Music
